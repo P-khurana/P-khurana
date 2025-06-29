@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Khurana</h1>
-<h3 align="center">"Full-Stack Web Developer | B.Tech ECE Student at Dronacharya College of Engineering | Tech Enthusiast"</h3>
+<h3 align="center">"Full-Stack Web Developer | B.Tech ECE Student at Dronacharya College of Engineering"</h3>
 
 - 🔭 I’m currently working on [EduMentor-AI](https://edumentor-ai.netlify.app/)
-
-- 🌱 I’m currently learning *Data Science with Python*
 
 - 👯 I’m looking to collaborate on the React, Next, Node, Vite Projects *Creating a Powerful 3D Portfolio*
 
